@@ -1,6 +1,3 @@
-Here is the **GitHub-friendly Markdown code** for your **README.md** file:
-
-```markdown
 # Financial Inclusion Analysis
 
 ## Overview
@@ -121,18 +118,4 @@ For inquiries, contact: `your.email@example.com`
 ## Acknowledgements
 - **World Bank** for Global Findex Data
 - **Machine Learning & Data Science Communities** for open-source tools
-```
 
----
-
-### **How to Use This Code**
-1. **Copy** the above Markdown content.
-2. **Paste** it into your `README.md` file.
-3. **Save the file** and commit it to your GitHub repository using:
-   ```bash
-   git add README.md
-   git commit -m "Added README file"
-   git push origin main
-   ```
-
-Now your repository will have a properly formatted **README.md** file with all necessary details! 🚀 Let me know if you need further adjustments!
