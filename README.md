@@ -46,14 +46,6 @@ financial-inclusion-analysis/
 │── .gitignore             # Ignoring unnecessary files
 ```
 
-## Usage
-- **Data Preprocessing**: Run `notebooks/01_data_cleaning.ipynb`
-- **Exploratory Data Analysis**: Run `notebooks/02_eda_visualization.ipynb`
-- **Feature Engineering**: Run `notebooks/03_feature_engineering.ipynb`
-- **Machine Learning Models**: Run `notebooks/04_machine_learning.ipynb`
-- **Clustering Analysis**: Run `notebooks/05_clustering_analysis.ipynb`
-- **Time-Series Analysis**: Run `notebooks/06_time_series_analysis.ipynb`
-
 ## Datasets Used
 - **Global Findex Database 2021** (World Bank)
 - **Country-Level Financial Data**
