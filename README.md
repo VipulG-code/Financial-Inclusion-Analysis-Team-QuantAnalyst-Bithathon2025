@@ -46,27 +46,6 @@ financial-inclusion-analysis/
 │── .gitignore             # Ignoring unnecessary files
 ```
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/financial-inclusion-analysis.git
-   cd financial-inclusion-analysis
-   ```
-2. Create a virtual environment (optional but recommended):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Mac/Linux
-   venv\Scripts\activate     # On Windows
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-
 ## Usage
 - **Data Preprocessing**: Run `notebooks/01_data_cleaning.ipynb`
 - **Exploratory Data Analysis**: Run `notebooks/02_eda_visualization.ipynb`
@@ -74,20 +53,6 @@ financial-inclusion-analysis/
 - **Machine Learning Models**: Run `notebooks/04_machine_learning.ipynb`
 - **Clustering Analysis**: Run `notebooks/05_clustering_analysis.ipynb`
 - **Time-Series Analysis**: Run `notebooks/06_time_series_analysis.ipynb`
-
-### Run Python Scripts:
-```bash
-python src/data_preprocessing.py
-python src/feature_engineering.py
-python src/model_training.py
-python src/clustering.py
-python src/time_series_analysis.py
-```
-
-### Run Dashboard:
-```bash
-python src/dashboard.py
-```
 
 ## Datasets Used
 - **Global Findex Database 2021** (World Bank)
@@ -109,11 +74,13 @@ pip install package_name
 MIT License
 
 ## Contributors
-- **Your Name** - Data Scientist
-- **Team Members** - Financial Analysts, Data Engineers, and Business Experts
+- **Vipul Ghodake** 
+- **Samarth Bolaj**
+-  **ganesh Shinde** 
+
 
 ## Contact
-For inquiries, contact: `your.email@example.com`
+For inquiries, contact: `vipulghodake1452@gmail.com`
 
 ## Acknowledgements
 - **World Bank** for Global Findex Data
